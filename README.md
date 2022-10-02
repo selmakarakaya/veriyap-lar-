@@ -2,7 +2,7 @@
 
 
 
-VeriYapilariVeAlgoritmalar
+
 Veri Yapıları ve Algoritmaları projelerimi içermektedir
 
 Insertion Sort-Projesi
